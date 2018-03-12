@@ -25,6 +25,5 @@ Mac OSX
 
 
 ### License
-Google Maps
-
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Google Maps API Free
+Google Maps API Punlic Access
