@@ -3,7 +3,7 @@ Website for G-Rex
 
 ## G-Rex site, 3/12/18
 
-By Noah Medoff and Roland Manangan
+By Noah Medoff, Roland Manangan, and Justin Roller
 
 ## Description
 This is a website for the fictional dog G-Rex.
