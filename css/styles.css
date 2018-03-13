@@ -1,0 +1,17 @@
+nav {
+  border: 1px solid #999;
+  background-color: #1ffbea;
+  word-spacing: 30px;
+}
+
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  list-style-type: none;
+}
